@@ -26,5 +26,6 @@ setup(
         [ckan.plugins]
         # Add plugins here, e.g.
         # myplugin=ckanext.dataforjapan.plugin:PluginClass
+        dataforjapan_theme=ckanext.dataforjapan.plugin:DataForJapanThemePlugin
     ''',
 )
