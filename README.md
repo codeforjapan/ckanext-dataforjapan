@@ -13,3 +13,5 @@ Add dataforjapan_theme into ckan.plugins in your configuration file.
 ```
 ckan.plugins = stats text_preview recline_preview pdf_preview dataforjapan_theme
 ```
+
+Then restart your web server.
